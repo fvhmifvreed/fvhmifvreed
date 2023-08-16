@@ -21,7 +21,7 @@ src="https://img.shields.io/twitter/follow/fvhmifvreed?logo=twitter&style=for-th
 
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="36" height="36" alt="PYTHON" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/XPdRFanRZtNK/django" width="36" height="36" alt="Django" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/mUBILbYvUMq8/django" width="36" height="36" alt="Django" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width="36" height="36" alt="UBUNTU" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" width="36" height="36" alt="GIT" /></a>
