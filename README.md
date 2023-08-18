@@ -1,6 +1,6 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*B6-nC0UE8Z-LzVck4NvRlw.png)](https://rishavchanda.io)
+[![MasterHead](https://thepythoncode.com/media/articles/make-a-drawing-program-using-pygame-in-python.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fahmi Fareed</h1>
-<h3 align="center">A passionate frontend developer from SUDAN</h3>
+<h3 align="center">A Python Programmer from SUDAN</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fvhmifvreed&label=Profile%20views&color=0e75b6&style=flat" alt="fvhmifvreed" /> </p>
