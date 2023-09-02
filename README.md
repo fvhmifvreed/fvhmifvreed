@@ -1,5 +1,5 @@
 [![MasterHead](https://thepythoncode.com/media/articles/make-a-drawing-program-using-pygame-in-python.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Fahmi Fareed</h1>
+<h1 align="center">Hi 👋, I'm a Fahmi Fareed Python developer</h1>
 <h3 align="center">A Python Programmer from SUDAN</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
