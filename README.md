@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fvhmifvreed@gmail.com**
 
-- ⚡ Fun fact **I'm secretly Hamam... but don't tell anyone**
+- 😭 I can do some frontend but I hate it LOL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
